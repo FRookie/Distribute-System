@@ -29,3 +29,6 @@
 
 ## 如何理解不能同时保证"CAP"
 
+![CAP分析甘特图](https://github.com/FRookie/Distribute-System/blob/master/941183-20190614193117074-1830209672.png)
+
+
