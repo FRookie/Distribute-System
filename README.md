@@ -13,4 +13,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;最多满足其中的两个特性。也就是下图所描述的。分布式系统要么满足CA,要么CP，要么AP。无法同时满足CAP。
 
-![一致性甘特图]()
+![一致性甘特图](https://github.com/FRookie/Distribute-System/blob/master/941183-20190614191945691-976367436.png)
