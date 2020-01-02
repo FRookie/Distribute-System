@@ -6,3 +6,5 @@
 ### 分布式理解之分布式系统 --- [详情点此处](https://github.com/FRookie/Distribute-System/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F.md)
 
 ### 分布式理解之分布式事务 --- [详情点此处](https://github.com/FRookie/Distribute-System/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1.md)
+
+### 分布式理解之消息中间件kafka --- [参考文](https://www.orchome.com/5)
